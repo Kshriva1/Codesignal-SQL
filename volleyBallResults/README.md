@@ -10,4 +10,21 @@ The results table contains the following columns:
 
 Your task is to sort the given results table in ascending order by the number of wins.
 
+Example
+
+For given table results
+|name |	country |	scored |	missed | 	wins |
+ ----- | ------ | -------- | ------- | --------|
+ |FC Tokyo |	Japan |	26 |	28 |	1|
+ |Fujian |	China |	24 |	26| 	0|
+ |Jesus Maria  |	Argentina | 	25 |	23| 	3|
+ |University | Blues | 	Australia | 	16  |	25 | 	2 |
+
+the output should be
+name 	country 	scored 	missed 	wins
+Fujian 	China 	24 	26 	0
+FC Tokyo 	Japan 	26 	28 	1
+University Blues 	Australia 	16 	25 	2
+Jesus Maria 	Argentina 	25 	23 	3
+
 
