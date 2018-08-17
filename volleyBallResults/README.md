@@ -22,10 +22,12 @@ For given table results
 |University Blues | Australia | 16 |25 |2
 
 the output should be
-name 	country 	scored 	missed 	wins
-Fujian 	China 	24 	26 	0
-FC Tokyo 	Japan 	26 	28 	1
-University Blues 	Australia 	16 	25 	2
-Jesus Maria 	Argentina 	25 	23 	3
+
+|name |	country | scored |missed |	wins
+|----|----|----|----|----|
+|Fujian | China | 24 |26 |0
+|FC Tokyo |	Japan |	26 | 28 | 1
+|University Blues |	Australia |	16 | 25 | 2
+|Jesus Maria | Argentina  |	25 | 23 |3
 
 
