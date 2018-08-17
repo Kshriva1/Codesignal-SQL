@@ -13,6 +13,7 @@ Your task is to sort the given results table in ascending order by the number of
 Example
 
 For given table results
+
 |name |	country  |	scored |missed | wins
 |----|----|----|----|----|
 |FC Tokyo |	Japan |	26 |28 |1
