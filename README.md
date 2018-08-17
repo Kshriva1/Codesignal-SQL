@@ -1,5 +1,5 @@
 # Codesignal
 
-My solutions of Codesignal Arcase database problems.
+My solutions of Codesignal Arcade database problems.
 
 [Codesignal.com](https://app.codesignal.com/)
